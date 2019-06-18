@@ -1,0 +1,17 @@
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.deps.json
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.runtimeconfig.json
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.runtimeconfig.dev.json
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.pdb
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.pdb
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.csprojAssemblyReference.cache
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.csproj.CoreCompileInputs.cache
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.AssemblyInfoInputs.cache
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.AssemblyInfo.cs
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.csproj.CopyComplete
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.pdb

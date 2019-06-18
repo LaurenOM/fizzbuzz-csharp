@@ -1,0 +1,9 @@
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/edreeve/makers/projects/fizzbuzz-csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
